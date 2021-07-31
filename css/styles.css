@@ -321,16 +321,16 @@ img {
 
   padding: 10px;
 }
-.alert-text {
+.alert-text a {
   max-width: 90%;
   margin: 0 auto;
 }
 .get-help {
-  background-color: whitesmoke;
-  text-align: center;
-  padding: 10px;
+text-align: center;
+  padding: 15px;
   font-size: 12px;
   font-weight: 525;
+  background-color: whitesmoke;
 }
 /*Media Query*/
 /* Footer */
